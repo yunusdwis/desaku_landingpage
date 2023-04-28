@@ -37691,7 +37691,7 @@ body .modal-backdrop {
 }
 
 .sc-banner-section-area3 .banner-circle-shape2 {
-  background: #12C364;
+  background: #12c36572;
   position: absolute;
   width: 780px;
   height: 780px;
@@ -37743,7 +37743,7 @@ body .modal-backdrop {
 }
 
 .sc-banner-section-area4 .banner-circle-shape2 {
-  background: #12C364;
+  background: #12c36572;
   position: absolute;
   width: 780px;
   height: 780px;
@@ -37832,10 +37832,10 @@ body .modal-backdrop {
   position: absolute;
   width: 880px;
   height: 800px;
-  top: -20%;
+  top: -50%;
   right: -5%;
   border-radius: 50%;
-  background: #12C364;
+  background: #05a133;
 }
 
 .bottom-skew-bg {
@@ -40954,7 +40954,7 @@ body .modal-backdrop {
 .sc-breadcrumbs {
   position: relative;
   background-color: #12C364;
-  /* background-image: url(../images/banner/inner_bg.jpg); */
+  background-image: url(../images/banner/inner_bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
