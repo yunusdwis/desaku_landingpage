@@ -103,10 +103,10 @@
     .header-btn-area  {
         position: absolute;
         right: 0;
-        top: 10px;
+        top: 20px;
     }
 
-    .sc-main-logo {
+    .sc-main-logo  {
         text-align: left !important;
     }
 }
