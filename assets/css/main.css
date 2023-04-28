@@ -1,0 +1,88 @@
+/* Replace Navbar */
+
+.sc-main-menu>ul>li.current-menu-item a {
+    padding: 0;
+    width: 100px;
+    text-align: center;
+}
+
+.sc-main-menu>ul>li.current-menu-item .active {
+    color: #12C364;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 100px;
+}
+
+.sc-main-menu>ul>li.current-menu-item a:hover {
+    color: #12C364;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 100px;
+}
+
+/* Replace Primary Button 2 */
+
+.primary-btn2 {
+    background-color: white;
+}
+
+.primary-btn2 span {
+    color: #12C364;
+    position: relative;
+    z-index: 2;
+}
+
+.primary-btn2::before,
+.primary-btn2::after {
+    position: absolute;
+    top: 50%;
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-color: #12C364;
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+.primary-btn2::before {
+    left: -20px;
+    transform: translate(-50%, -50%);
+}
+
+.primary-btn2::after {
+    right: -20px;
+    transform: translate(50%, -50%);
+}
+
+.primary-btn2:hover {
+    color: #12C364;
+    border: 1px solid white;
+}
+
+.primary-btn2:hover::before {
+    animation: criss-cross-left 0.8s both;
+    animation-direction: alternate;
+}
+
+.primary-btn2:hover::after {
+    animation: criss-cross-right 0.8s both;
+    animation-direction: alternate;
+}
+
+.primary-btn2::before,
+.primary-btn2::after {
+    background-color: #12C364;
+}
+
+.primary-btn2:hover span {
+    color: white;
+}
+
+/* Floating */
+
+.floating {
+    position: fixed;
+    bottom: 15vh;
+    right: 3vh;
+    z-index: 9999;
+}
