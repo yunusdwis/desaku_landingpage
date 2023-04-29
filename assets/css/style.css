@@ -37832,7 +37832,7 @@ body .modal-backdrop {
   position: absolute;
   width: 880px;
   height: 800px;
-  top: -50%;
+  top: -10%;
   right: -5%;
   border-radius: 50%;
   background: #05a133;
