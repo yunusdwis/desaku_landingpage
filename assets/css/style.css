@@ -45,7 +45,7 @@ html,
 body {
   font-size: 16px;
   color: #424242;
-  font-family: "Varela", sans-serif;
+  font-family: "nexa", sans-serif;
   vertical-align: baseline;
   font-weight: 400;
   overflow-x: hidden;
@@ -82,7 +82,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   color: #101621;
   line-height: 1.3;
 }
@@ -158,7 +158,7 @@ ul {
   font-size: 20px;
   margin-bottom: 10px;
   display: block;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .p-z-idex {
@@ -844,7 +844,7 @@ ul {
   font-size: 18px;
   padding: 13px 33px;
   color: #353535;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 @media screen and (max-width: 767px) {
@@ -924,7 +924,7 @@ ul {
   font-size: 18px;
   padding: 13px 50px;
   color: #353535;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 @media screen and (max-width: 767px) {
@@ -1004,7 +1004,7 @@ ul {
   font-size: 18px;
   padding: 13px 33px;
   color: #353535;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 @media screen and (max-width: 767px) {
@@ -1085,7 +1085,7 @@ ul {
   padding: 13px 33px;
   border: 1px solid #ffffff;
   color: #ffffff;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 @media screen and (max-width: 767px) {
@@ -1227,7 +1227,7 @@ ul {
   font-weight: 600;
   font-size: 18px;
   color: #353535;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   border-radius: 50px;
   text-align: center;
   text-transform: capitalize;
@@ -37812,7 +37812,7 @@ body .modal-backdrop {
   -webkit-text-fill-color: transparent;
   font-weight: 600;
   font-size: 18px;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-banner-section-area7 .banner-header-content .banner-video-area i {
@@ -38686,7 +38686,7 @@ body .modal-backdrop {
   color: #101621;
   font-weight: 500;
   font-size: 16px;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-feature-section-area4 .feature_check ul li i {
@@ -38718,7 +38718,7 @@ body .modal-backdrop {
   color: #101621;
   font-weight: 500;
   font-size: 16px;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-feature-section-area5 .feature_check ul li i {
@@ -38908,7 +38908,7 @@ body .modal-backdrop {
 
 .sc-media-item .sc-media-list ul li {
   line-height: 2.6;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   color: #353535;
   font-weight: 500;
 }
@@ -39133,7 +39133,7 @@ body .modal-backdrop {
   color: #ffffff;
   font-size: 65px;
   font-weight: 700;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-counter-area .sc-counter-box .count-title {
@@ -39169,7 +39169,7 @@ body .modal-backdrop {
 .sc-price-area .sc-heading-area .sub_title {
   font-size: 20px;
   font-weight: 700;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-area .sc-price-box {
@@ -39198,17 +39198,17 @@ body .modal-backdrop {
   margin-top: -15px;
   padding-bottom: 5px;
   margin-bottom: 20px;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-area .sc-price-box .price-item .price {
   color: #424242;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-area .sc-price-box .price-item .third_color {
   color: #17975a;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-area .sc-price-box .price-item .month {
@@ -39321,7 +39321,7 @@ body .modal-backdrop {
 .sc-price-style .sc-heading-area .sub_title {
   font-size: 20px;
   font-weight: 700;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-style .sc-price-box {
@@ -39360,7 +39360,7 @@ body .modal-backdrop {
   -webkit-text-fill-color: transparent;
   font-size: 30px;
   font-weight: 700;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-style .sc-price-box .price-item .pric-title {
@@ -39371,12 +39371,12 @@ body .modal-backdrop {
 
 .sc-price-style .sc-price-box .price-item .price {
   color: #424242;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-style .sc-price-box .price-item .third_color {
   color: #17975a;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .sc-price-style .sc-price-box .price-item .month {
@@ -39641,7 +39641,7 @@ body .modal-backdrop {
   font-size: 20px;
   font-weight: 600;
   line-height: 1.5;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   display: flex;
 }
 
@@ -41059,7 +41059,7 @@ body .modal-backdrop {
   font-size: 16px;
   color: #101621;
   font-weight: 500;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   text-transform: uppercase;
   transition: 0.4s;
   -webkit-transition: 0.4s;
@@ -41620,7 +41620,7 @@ select {
   font-weight: 700;
   font-size: 25px;
   line-height: 35px;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   margin-bottom: 20px;
   margin-top: 30px;
 }
@@ -41840,7 +41840,7 @@ select {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.3;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
 }
 
 .contact-page-service-box .contact-service-box ul li a {
@@ -42012,7 +42012,7 @@ select {
 .content-area .details-area .personal-info li i {
   color: #12C364;
   font-size: 20px;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "nexa", sans-serif;
   margin-right: 10px;
 }
 

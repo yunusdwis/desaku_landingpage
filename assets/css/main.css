@@ -110,3 +110,63 @@
         text-align: left !important;
     }
 }
+
+body {
+    font-family: 'nexa' !important;
+}
+
+.text-primary {
+    color: #0DB45A !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+
+}
+
+p {
+    font-weight: lighter;
+}
+
+h1 {
+    height: fit-content;
+}
+
+#jumbotron {
+    height: 100vh;
+}
+
+
+.banner-shape {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 40vw;
+    height: 100vh;
+    background-color: #0DB45A;
+    border-radius: 50px 0 0 50px;
+}
+
+.banner-shape .hero {
+    position: absolute;
+    bottom: 0;
+    height: 90vh;
+    width: 90vw;
+    right: 20vh;
+    z-index: 10;
+}
+
+.banner-shape .arrow {
+    width: 5vw;
+    position: absolute;
+    bottom: 0;
+    right: 42vw;
+    top: 50vh;
+}
+
+.banner-shape .logo {
+    width: 15vw;
+    position: absolute;
+    right: 8vw;
+    top: 5vh;
+}
